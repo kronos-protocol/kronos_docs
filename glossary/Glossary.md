@@ -1,6 +1,14 @@
 
 # Technical Terms
 
+## General
+
+#### [[size]] & [[capacity]]
+**Definition:** The total number of entries allocated in memory for an array or pointer. This is the capacity, i.e., how many elements **can** be stored.
+
+#### [[length]]
+**Definition:** The number of entries currently filled with valid data in an array or pointer. This is the used portion of the allocated space.
+
 ## Core Library
 
 ### Packet
